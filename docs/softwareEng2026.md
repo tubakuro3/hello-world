@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture nore
+permalink: /docs/softwareEng2026
+---
+
 # ソフトウェア工学第1回~6回まとめ
 
 ## ソフトウェアとは
